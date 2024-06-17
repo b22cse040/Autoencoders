@@ -1,2 +1,2 @@
 # Autoencoders
-Learning about Autoencoders and its Applications
+Exploring Autoencoders and its Applications. 
